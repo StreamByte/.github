@@ -2,8 +2,6 @@
 
 **StreamByte** es una página donde ofrecemos una colección de retos de programación, tanto de Front-End como de Back-End. Descarga diseños profesionales y plantillas para desarrollar interfaces hermosas y funcionales o resuelve nuestros retos de lógica desarrollando herramientas útiles y optimizadas.
 
----
-
 ## Comunidad
 <p align="left">
    <a href="https://www.youtube.com/@josegonzz">
