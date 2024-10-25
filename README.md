@@ -47,6 +47,8 @@ Si te interesa saber como organizo mis proyectos y administro mis tareas, este p
 ## Se aceptan colaboraciones
 Si tienes algun consejo, tip o retroalimentación que quieras darme o te interesa que trabajemos juntos, puedes contactarme en [Discord](https://discord.gg/4WfzyGyrpc), [Linkedin](https://www.linkedin.com/in/gonzz-dev/) y a través de mi [e-mail](mailto:contact@gonzz.dev).
 
+Para colaborar, escoge un repositorio y lee el README.md con las instrucciones detalladas.
+
 ### ¿Necesitas pulir las bases? Recomendamos estos recursos para aprenderlas:
 - Para conocer las bases de HTML y CSS:
   - Nuestra comunidad en [Discord](https://discord.gg/4WfzyGyrpc) y videos tutoriales en [YouTube](https://www.youtube.com/@StreamByte-mx)
