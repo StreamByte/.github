@@ -42,7 +42,7 @@ Actualmente los retos se encuantran siendo creados.
 
 Si te interesa saber como organizo mis proyectos y administro mis tareas, este proyecto está siendo documentado a través de Notion:
 - [Enlace del dashboard](https://purple-literature-335.notion.site/Workspace-Template-by-Gonzz-ac87302172ae40778d26cd83759874ba)
-- Si quieres adquirir la plantilla de organización proyectos que uso, puedes hacerlo [aquí](https://gonzz.gumroad.com/l/workspace)
+- Si quieres adquirir la plantilla de organización proyectos que hice, puedes hacerlo [aquí](https://gonzz.gumroad.com/l/workspace), sin costo :)
 
 ## Se aceptan colaboraciones
 Si tienes algun consejo, tip o retroalimentación que quieras darme o te interesa que trabajemos juntos, puedes contactarme en [Discord](https://discord.gg/4WfzyGyrpc), [Linkedin](https://www.linkedin.com/in/gonzz-dev/) y a través de mi [e-mail](mailto:contact@gonzz.dev).
